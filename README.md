@@ -1,4 +1,4 @@
-Expenses Tracker web application
+simple expenses tracker web application
 
 check the file project via https://task-led-kln.netlify.app/
 
